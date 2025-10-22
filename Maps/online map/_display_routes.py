@@ -17,7 +17,7 @@ from folium.plugins.fullscreen import Fullscreen
 import requests
 import polyline
 
-
+# je suis la
 # tiles to use for the map background, HOT tiles are prettier but the standart ones work better
 # MAP_TILES = "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
 MAP_TILES = "http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
