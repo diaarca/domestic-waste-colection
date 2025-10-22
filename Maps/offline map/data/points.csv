@@ -1,0 +1,330 @@
+index;label;identifiant;addresse?;commune;code_postal;latitude;longitude
+0;mairie de puy sanières;05111pc00001;1169 route des puys;puy-sanieres;05200;44.556359;6.436790
+1;pibou bas;05111pc00002;2 rue du morgon;puy-sanieres;05200;44.546959;6.421536
+2;nouveau village;05108pc00003;68 rue de la baume;puy-saint-eusebe;05200;44.561828;6.411584
+3;le villard;05108pc00004;23 route de réallon;puy-saint-eusebe;05200;44.567129;6.401163
+4;le chef lieu;05114pc00005;31 charrière des voûtes;reallon;05160;44.595123;6.364527
+5;les gourniers;05114pc00006;14 charrière de viarette;reallon;05160;44.615133;6.332942
+6;les rousses école;05114pc00007;21 charrière du gallant;reallon;05160;44.578025;6.377433
+7;les méans;05114pc00008;105 charrière de la combe;reallon;05160;44.585197;6.382586
+8;pav gare;05164pc00009;1 route de réallon;savines-le-lac;05160;44.535573;6.391094
+9;la treille;05164pc00010;3 route des puys;savines-le-lac;05160;44.539313;6.399622
+10;picoune;05164pc00011;6 impasse coste béraude;savines-le-lac;05160;44.536785;6.385521
+11;pré d'emeraude;05164pc00012;1 rue des chardonnerets;savines-le-lac;05160;44.516502;6.374076
+12;relais fleuri;05164pc00013;12 rue du forest;savines-le-lac;05160;44.525306;6.400949
+13;place lacaou;05164pc00014;12 rue du forest;savines-le-lac;05160;44.524473;6.402656
+14;pompiers / hlm;05164pc00015;3 rue serre verger;savines-le-lac;05160;44.525393;6.406207
+15;sortie savines le lac coté embrun / station service;05164pc00016;3 rue du champ raoux;savines-le-lac;05160;44.526257;6.408558
+16;eden lac;05164pc00017;1 rue de l’oratoire;savines-le-lac;05160;44.526793;6.408632
+17;cimetière;05164pc00018;9 rue des eaux douces;savines-le-lac;05160;44.527335;6.403661
+18;hameau chérines;05164pc00019;7 route de savines;savines-le-lac;05160;44.559946;6.379651
+19;r de l'oratoire r de l'ounie;05164pc00020;5 rue de l’ounié;savines-le-lac;05160;44.527368;6.407720
+20;plage;05164pc00021;1 rue de la combette;savines-le-lac;05160;44.528127;6.406020
+21;office de tourisme (ot);05164pc00022;8 rue des marronniers;savines-le-lac;05160;44.526259;6.403469
+22;camping les eygoires (municipal savines le lac);05164pc00024;4 route du sauze;savines-le-lac;05160;44.519519;6.387515
+23;rue de la combette/ hlm;05164pc00025;2 rue saint-férréol;savines-le-lac;05160;44.526994;6.405391
+24;centre village;05163pc00026;764 route du village;le sauze-du-lac;05160;44.526994;6.405391
+25;cimetière;05163pc00027;72 chemin du cimetière;le sauze-du-lac;05160;44.479102;6.315134
+26;port st pierre;05163pc00028;650 chemin de port saint-pierre;le sauze-du-lac;05160;44.476396;6.316210
+27;plage port st pierre;05163pc00029;1226 chemin de port saint-pierre;le sauze-du-lac;05160;44.467598;6.323621
+28;les chevaliers;04154pc00030;pré de capitaine;pontis;05160;44.508781;6.363622
+29;pav centre village;05130pc00031;135 route de chorges;saint apollinaire;05160;44.555691;6.360185
+30;les crozans;05130pc00032;1638 route de savines;saint apollinaire;05160;44.549308;6.362860
+31;ponts des vignes (rn 94);05106pc00033;1 impasse du pré;prunieres;05230;44.531968;6.325218
+32;place de la mairie;05106pc00034;30 route de prunières;prunieres;05230;44.542344;6.332655
+33;pra perier;05106pc00035;25 route de pra périer;prunieres;05230;44.540427;6.338296
+34;le serre;05106pc00036;162 route de chabrière;prunieres;05230;44.549470;6.328987
+35;centre village / bascule / eglise;05106pc00037;2 route de chabrière;prunieres;05230;44.543702;6.326666
+36;pra prunier;05114pc00038;77 charrière des chalets d’estive;reallon;05160;44.577244;6.365925
+37;parking central;05114pc00039;584 charrière grande de pra goudin;reallon;05160;44.575953;6.361514
+38;bas de la station;05114pc00040;4 charrière grande de pra goudin;reallon;05160;44.574402;6.365035
+39;devant commerces;05114pc00041;388 charrière grande de pra goudin;reallon;05160;44.577214;6.363201
+40;centre  de vacances chadenas;05111pc00042;319 chemin de chadenas;puy-sanieres;05200;44.547358;6.461433
+41;ime centre jean cluzel;05164pc00043;17 route de réallon;savines-le-lac;05160;44.538977;6.378694
+42;cv vtf les pigneroux;05164pc00044;1 route des pigneroux;savines-le-lac;05160;44.551868;6.376052
+43;camping le roustou;05106pc00045;32 chemin du roustou;prunieres;05230;44.523053;6.340976
+44;camping le nautic;05106pc00046;255 route du lac;prunieres;05230;44.527258;6.358344
+45;cv ccas / maison centrale;05164pc00047;1 route du sauze;savines-le-lac;05160;44.517926;6.384902
+46;montagne aux marmottes;05163pc00048;444 route départementale 954;le sauze-du-lac;05160;44.472430;6.327381
+47;demoiselles coiffées / souvenirs;05163pc00049;507 route des demoiselles coiffées;le sauze-du-lac;05160;44.494644;6.340876
+48;camping la palatrière;05163pc00050;201 route d’orbanne;le sauze-du-lac;05160;44.498575;6.344786
+49;camping de st apollinaire;05130pc00051;2353 route du lac;saint apollinaire;05160;44.561583;6.346529
+50;camping les granges;04154pc00052;;pontis;05160;44.514040;6.364286
+51;camping les chappas;04154pc00053;;pontis;05160;44.514355;6.362179
+52;jeunesse et avenir;04154pc00054;;pontis;05160;44.509928;6.355159
+53;centre vacances val ubaye;05012pc00055;1214 chemin de la serbie;baratier;05200;44.526126;6.500747
+54;hôtel restaurant les peupliers;05012pc00056;239 chemin de lesdier;baratier;05200;44.536388;6.491931
+55;décheterie de savines le lac;05164pc00057;2 chemin de la chapelle;savines-le-lac;05160;44.545509;6.393907
+56;optex;05164pc00058;7 avenue du faubourg;savines-le-lac;05160;44.523307;6.399009
+57;gcu camping / snack;05164pc00059;3 allee des alouettes;savines-le-lac;05160;44.516639;6.376639
+58;cv ccas  / camp d'ados / pré d'emeraude;05164pc00060;4 impasse de la galinette;savines-le-lac;05160;44.517377;6.369304
+59;pré d'emeraude / la plage;05164pc00061;6 rue des chardonnerets;savines-le-lac;05160;44.519106;6.372410
+60;maison de retraite savines le lac;05164pc00062;2 rue des marronniers;savines-le-lac;05160;44.526869;6.404488
+61;centre village;04154pc00063;champ audin;pontis;05160;44.503941;6.357085
+62;riou bourdou;05164pc00064;;savines-le-lac;05160;44.530368;6.371430
+63;les gourres;05106pc00065;6 chemin des blanchons;prunieres;05230;44.552810;6.326178
+64;le moulin, petit liou, ctm;05012pc00066;230 route des vachères;baratier;05200;44.549218;6.487520
+65;le viautaud, direction la mûre;05012pc00067;762 route de pra fouran;baratier;05200;44.541682;6.492813
+66;square charles gieu;05012pc00068;102 impasse du serre;baratier;05200;44.539092;6.487630
+67;embranchement ailloud, imp des aubépines;05012pc00069;17 impasse des aubépines;baratier;05200;44.541171;6.490093
+68;square des baladins;05012pc00070;376 chemin des fruits d’or;baratier;05200;44.539818;6.486499
+69;pav le provence;05164pc00071;7 avenue du faubourg;savines-le-lac;05160;44.522403;6.399570
+70;parking du cimetière;05012pc00072;10 chemin de lesdier;baratier;05200;44.538369;6.491999
+71;entrée village, place des lavandières;05012pc00073;28 place des lavandières;baratier;05200;44.538300;6.496947
+72;pav pont de vachères;05012pc00074;1765 route des orres;baratier;05200;44.537649;6.497446
+73;baie des italiens / eaux douces;05045pc00075;;crots;05200;44.531262;6.429998
+74;sortie embrun;05045pc00076;466 rue de vicherette;crots;05230;44.537871;6.474201
+75;ecole de crots;05045pc00077;route de chanterenne;crots;05200;44.533991;6.468497
+76;pav sortie de gap;05045pc00078;60 route de chanterenne;crots;05200;44.533314;6.467170
+77;parking au dessus de la mairie / picomtal;05045pc00079;154 avenue du château;crots;05200;44.532887;6.470976
+78;route du poët croisement route de baratier;05045pc00080;7 rue du poët;crots;05200;44.531571;6.481536
+79;entrée du forest;05045pc00081;5 chemin du forest;crots;05200;44.524612;6.467943
+80;quartier st jean;05045pc00082;83 route de beauvillard;crots;05200;44.511218;6.468579
+81;les thozans parking / la montagne;05045pc00083;151 chemin de la draye;crots;05200;44.495129;6.471867
+82;montmirail;05045pc00084;10 route de montmirail;crots;05200;44.531589;6.439892
+83;sortie beauvillard;05045pc00085;200 chemin du canal;crots;05200;44.520352;6.457252
+84;abbaye de boscodon;05045pc00086;3815 route de boscodon;crots;05200;44.499784;6.456003
+85;za des moulins;05045pc00087;593 chemin du lac;crots;05200;44.529064;6.447605
+86;les dourioux;05045pc00088;11 chemin des bosquis;crots;05200;44.508045;6.469142
+87;camping du petit liou;05012pc00089;25 ancienne route de baratier;baratier;05200;44.546849;6.490530
+88;chemin des sarments;05046pc00090;19 rue des vignes;embrun;05200;44.562353;6.486729
+89;la chaussière;05046pc00091;4 rue du bois vézin;embrun;05200;44.567943;6.501936
+90;parking paramart;05046pc00092;19bis avenue du general nicolas;embrun;05200;44.568081;6.497755
+91;bd pasteur bas;05046pc00093;12 boulevard pasteur;embrun;05200;44.563430;6.492777
+92;bd pasteur crédit agricole;05046pc00094;42 boulevard pasteur;embrun;05200;44.565044;6.495005
+93;bd pasteur farandole;05046pc00095;13 rue de la tannerie;embrun;05200;44.564165;6.493576
+94;bd pasteur la poste;05046pc00096;25 boulevard pasteur;embrun;05200;44.565579;6.496121
+95;pav piscine;05046pc00097;11 hameau du lac;embrun;05200;44.551121;6.481862
+96;pav plan d'eau commerces;05046pc00098;10 avenue du lac;embrun;05200;44.550952;6.478112
+97;parc des 4 soleils;05046pc00099;27 avenue des acacias;embrun;05200;44.555434;6.481998
+98;parking de la libération - leader price;05046pc00100;2 esplanade de la résistance;embrun;05200;44.562419;6.491968
+99;les chardouires;05046pc00101;78 route de chalvet;embrun;05200;44.574739;6.500121
+100;pav rue dunant (derrière la gare);05046pc00102;1 avenue du general nicolas;embrun;05200;44.566477;6.495240
+101;vignes iv pav;05046pc00103;2 rue saint-georges;embrun;05200;44.561658;6.484701
+102;cimetière pav;05046pc00104;4 route des puys;embrun;05200;44.559865;6.484853
+103;st surnin hlm;05046pc00105;5 rue du mont guillaume;embrun;05200;44.570080;6.507153
+104;aire des gens du voyage;05046pc00106;route de la madeleine;embrun;05200;44.554240;6.500320
+105;avenue des acacias / terrains de tennis / rés lupins;05046pc00107;19 avenue des acacias;embrun;05200;44.554418;6.480138
+106;chemin de chadenas / face rés petit nice;05046pc00108;30 chemin de chadenas;embrun;05200;44.553904;6.478034
+107;pontfrache;05046pc00109;41 avenue charles de gaulle;embrun;05200;44.569909;6.502133
+108;immeuble champ de mars;05046pc00110;7 avenue de verdun;embrun;05200;44.565944;6.498144
+109;chemin des croix;05046pc00111;8 rue du maréchal de lattre de tassigny;embrun;05200;44.565061;6.499288
+110;edf / route de st andré;05046pc00112;23 rue edouard przybylski;embrun;05200;44.566887;6.501399
+111;hlm rochassons;05046pc00113;10 rue des rochassons;embrun;05200;44.566097;6.500498
+112;gare sncf / jardins du réal;05046pc00114;5 avenue charles de gaulle;embrun;05200;44.567219;6.497870
+113;le moulin (montée de chalvet);05046pc00115;10 route de chalvet;embrun;05200;44.570897;6.498936
+114;oratoire chalvet;05046pc00116;1 chemin du clot des nevières;embrun;05200;44.581171;6.503171
+115;champ bossu;05046pc00117;8 route de caléyères;embrun;05200;44.567043;6.492188
+116;au dessus marigny / rue des pins;05046pc00118;20 rue des pins;embrun;05200;44.565736;6.488130
+117;rue isnel centre / côté mairie;05046pc00119;1 rue isnel;embrun;05200;44.564002;6.496174
+118;rue des vendanges / rue des violettes;05046pc00120;16 rue des violettes;embrun;05200;44.564163;6.488271
+119;av des vignes /rue des vendanges;05046pc00121;1 hameau des vignes;embrun;05200;44.562273;6.483677
+120;pervenches - cîmes : au dessus de st esprit / bât peller;05046pc00122;10 rue du saint esprit;embrun;05200;44.562357;6.488349
+121;face centre aéré / tour des portes;05046pc00123;18 promenade du tour des portes;embrun;05200;44.565397;6.493121
+122;au-dessus du lep / weldom;05046pc00124;4 rue de la plaine sous le roc;embrun;05200;44.556137;6.484111
+123;la truite qui parle / bar des pêcheurs;05046pc00125;2 impasse des merisiers;embrun;05200;44.552574;6.484344
+124;pont fourré;05046pc00126;28 avenue justin gras;embrun;05200;44.558788;6.484250
+125;haut de la belotte / st jacques;05046pc00127;30 route de caléyères;embrun;05200;44.566105;6.486039
+126;petit puy / les terrasses;05046pc00128;2 route du petit puy;embrun;05200;44.561846;6.470994
+127;hameau caléyère;05046pc00129;66 route de caléyères;embrun;05200;44.571278;6.483528
+128;square lapeyrouse;05046pc00130;1 rue pierre et marie curie;embrun;05200;44.562624;6.493601
+129;le boussolenc;05046pc00131;25 avenue charles de gaulle;embrun;05200;44.568343;6.500316
+130;hlm le roc / devant hôpital;05046pc00132;13 rue pierre et marie curie;embrun;05200;44.561734;6.493021
+131;rue sénateur bonniard;05046pc00133;6 rue du senateur bonniard;embrun;05200;44.562876;6.496055
+132;rue des acacias / rue du rif clair;05046pc00134;12 avenue des acacias;embrun;05200;44.553190;6.479328
+133;ste marthe;05046pc00135;15 chemin de chadenas;embrun;05200;44.557891;6.482240
+134;chemin de l'aigle;05098pc00136;4 chemin de l’aigle;les orres;05200;44.494385;6.554539
+135;côte chamois;05046pc00137;1 chemin cote chamois;embrun;05200;44.561952;6.490615
+136;chanchore;05046pc00138;70 route de la madeleine;embrun;05200;44.542333;6.497518
+137;place de l'archevêché;05046pc00139;rue de l’archevéché;embrun;05200;44.562665;6.495395
+138;place dosse;05046pc00140;22 place du general dosse;embrun;05200;44.564964;6.496020
+139;camping les grillons;05046pc00141;1 route de la madeleine;embrun;05200;44.548105;6.496280
+140;place aux herbes;05046pc00142;16 place du general dosse;embrun;05200;44.564880;6.495881
+141;rue victor maurel;05046pc00143;45 rue victor maurel;embrun;05200;44.564600;6.497253
+142;bd pasteur cinema;05046pc00144;29 boulevard pasteur;embrun;05200;44.565566;6.496542
+143;delaroche pav;05046pc00145;18 rue colonel bonnet;embrun;05200;44.563900;6.497970
+144;face au super u / entraigues;05046pc00146;1 avenue des métiers;embrun;05200;44.551156;6.486694
+145;déchèterie;05046pc00147;;embrun;05200;44.585437;6.515581
+146;cna;05046pc00148;64 chemin de chadenas;embrun;05200;44.548849;6.466587
+147;cna touristes;05046pc00149;9 chemin de chadenas;embrun;05200;44.547431;6.466735
+148;chalets de chalvet;05046pc00150;1 rue de la tarriere;embrun;05200;44.577952;6.497808
+149;rue des capucines;05046pc00151;15 rue des capucines;embrun;05200;44.563752;6.485537
+150;rue de la levée;05046pc00152;32 rue de la levee;embrun;05200;44.554540;6.482018
+151;le diamant / l'eterlou;05046pc00153;31 route de chalvet;embrun;05200;44.573696;6.501765
+152;la robeyère;05046pc00154;19 rue de la robéyère;embrun;05200;44.559627;6.488378
+153;le vautisse;05046pc00155;46 promenade du tour des portes;embrun;05200;44.562941;6.490977
+154;paradis;05046pc00156;4 chemin de paradis;embrun;05200;44.567369;6.506000
+155;st surnin rue du razis;05046pc00157;4 rue du razis;embrun;05200;44.569999;6.506080
+156;les orres sortie village sortie côté station;05098pc00158;2 impasse serre-lacroix;les orres;05200;44.512886;6.554414
+157;les violettes;05046pc00159;2 allée des fonts couvertes;embrun;05200;44.564802;6.490530
+158;st esprit hlm;05046pc00160;1 rue des allieres;embrun;05200;44.562539;6.488873
+159;château de caleyère;05046pc00161;96 route de caléyères;embrun;05200;44.575339;6.476133
+160;praveyral;05044pc00162;115 rue du brunel;crevoux;05200;44.546452;6.595205
+161;la chalp;05044pc00163;1 route du parpaillon;crevoux;05200;44.547742;6.619333
+162;centre village;05044pc00164;41 rue de la cime;crevoux;05200;44.547544;6.607383
+163;station;05044pc00165;14 route de pra vesqua;crevoux;05200;44.546489;6.605832
+164;foyer de ski de fond;05044pc00166;7 chemin des arnauds;crevoux;05200;44.548107;6.624334
+165;beauregard / lot les miroirs du lac;05156pc00167;15 route de beauregard;saint-sauveur;05200;44.548077;6.500547
+166;pav st sauveur;05156pc00168;1474 route de saint sauveur;saint-sauveur;05200;44.526434;6.519761
+167;les augustins / inter route des charniers;05156pc00169;348 route de saint sauveur;saint-sauveur;05200;44.539219;6.520989
+168;les manins / les gaillards;05156pc00170;1369 route des manins;saint-sauveur;05200;44.531836;6.526889
+169;le coin bas;05156pc00171;282 route du coin;saint-sauveur;05200;44.555492;6.527133
+170;hameau des salettes;05156pc00172;159 route des sallettes;saint-sauveur;05200;44.521339;6.520823
+171;les sagnettes;05098pc00173;6 route des sagnettes;les orres;05200;44.509890;6.535250
+172;les orres sortie village;05098pc00174;1 rue de l’arenier;les orres;05200;44.512166;6.545302
+173;le mélezet caserne;05098pc00175;3 rue du cadran solaire;les orres;05200;44.503869;6.555301
+174;le forest;05098pc00176;1 impasse clot des lilas;les orres;05200;44.515211;6.563068
+175;les ribes;05098pc00177;11 rue de vachères;les orres;05200;44.512602;6.569166
+176;le mélezet entrée;05098pc00178;2 rue de pra chapelle;les orres;05200;44.506134;6.554228
+177;le mélezet bas;05098pc00179;20 rue font cordeille;les orres;05200;44.503364;6.550166
+178;pramouton;05098pc00180;20 route du boussolenc;les orres;05200;44.496850;6.554881
+179;descente immeuble tennis hlm;05098pc00181;4 chemin de l’aigle;les orres;05200;44.494433;6.554605
+180;intersection rn prébois / l'estomac;05098pc00182;2 route de bois méans;les orres;05200;44.491136;6.553369
+181;pav des trois chemins;05098pc00184;54 chemin de croty;les orres;05200;44.516427;6.533457
+182;champs laccas;05098pc00185;16 traverse sainte-marguerite;les orres;05200;44.499608;6.555465
+183;le milieu intersection d994/d39;05128pc00186;mille hommes;saint-andre-d embrun;05200;44.591699;6.535586
+184;chabret;05128pc00187;le chabret;saint-andre-d embrun;05200;44.603580;6.547764
+185;chef-lieu;05128pc00188;80 place de la mairie;saint-andre-d embrun;05200;44.586194;6.534313
+186;les lagiers;05128pc00189;594 route de saluces;saint-andre-d embrun;05200;44.582892;6.534957
+187;serre lombard;05128pc00190;2515 route de crévoux;saint-andre-d embrun;05200;44.578120;6.526220
+188;les rencuraux;05128pc00191;4730 route de crévoux;saint-andre-d embrun;05200;44.572738;6.534754
+189;la pinée;05128pc00192;la pinèe;saint-andre-d embrun;05200;44.581028;6.528903
+190;le villard;05128pc00193;le villard;saint-andre-d embrun;05200;44.564916;6.547009
+191;serre bellon;05128pc00194;serre bellon;saint-andre-d embrun;05200;44.567005;6.521033
+192;route de prébois haut;05098pc00195;12 chemin du riou sec;les orres;05200;44.490767;6.556655
+193;centre village la forge;05036pc00196;35 rue des aubergeries;chateauroux-les-alpes;05380;44.613151;6.520265
+194;pav  tourrache;05036pc00197;17 avenue de la gare;chateauroux-les-alpes;05380;44.611564;6.525283
+195;parking mairie;05036pc00198;2 descente castel rudolphi;chateauroux-les-alpes;05380;44.613457;6.521837
+196;stade municipal;05036pc00199;18 chemin des aubépines;chateauroux-les-alpes;05380;44.609536;6.524310
+197;en face du garage collet;05036pc00200;39 route d’italie;chateauroux-les-alpes;05380;44.616872;6.521039
+198;fontfourane;05036pc00201;34 routes des chamousses;chateauroux-les-alpes;05380;44.621947;6.530552
+199;st marcellin;05036pc00202;430 route saint-marcellin;chateauroux-les-alpes;05380;44.619664;6.525003
+200;derrière cimetière communal;05036pc00203;50 chemin des pins;chateauroux-les-alpes;05380;44.614714;6.517396
+201;chapelle st roch;05036pc00204;883 route de saint-roch;chateauroux-les-alpes;05380;44.608563;6.512949
+202;les garcins / les taxils;05036pc00205;10 chemin des chènevières;chateauroux-les-alpes;05380;44.613815;6.531280
+203;camping les pins;05036pc00206;2 impasse camping les pins;chateauroux-les-alpes;05380;44.616008;6.517415
+204;camping du rabioux;05036pc00207;1500 route de la vague;chateauroux-les-alpes;05380;44.620804;6.546134
+205;camping les cariamas;05036pc00208;999 chemins des traverses;chateauroux-les-alpes;05380;44.602998;6.522264
+206;camping les eygas;05036pc00209;617 chemin de fontmoline;chateauroux-les-alpes;05380;44.601649;6.527447
+207;camping la garenne (municipal crots);05045pc00211;1170 route de la plage;crots;05200;44.538318;6.454667
+208;camping manu;05045pc00212;route de la plage;crots;05200;44.538086;6.457303
+209;st etienne;05036pc00213;1147 route de saint-êtienne;chateauroux-les-alpes;05380;44.628345;6.532019
+210;les bartavelles;05045pc00214;807 route de gap;crots;05200;44.542298;6.478694
+211;camping la clapière (municipal embrun);05046pc00215;10 avenue du lac;embrun;05200;44.551077;6.477788
+212;camping les tourelles;05046pc00216;5 chemin de ste marthe;embrun;05200;44.558417;6.482232
+213;camping la vieille ferme;05046pc00217;12 allée du méâle;embrun;05200;44.554015;6.485847
+214;camping la madeleine;05046pc00218;1940 route de la madeleine;embrun;05200;44.556992;6.507277
+215;camping les esparons;05046pc00219;344 route de la madeleine;embrun;05200;44.544683;6.498180
+216;camping la tour;05046pc00220;7 route de la madeleine;embrun;05200;44.555564;6.506069
+217;st claude;05036pc00221;4 impasse des argousiers;chateauroux-les-alpes;05380;44.609174;6.518586
+218;futur antérieur;05046pc00222;43 route de chalvet;embrun;05200;44.574495;6.504044
+219;cité scolaire honoré romane;05046pc00223;10 chemin des rossignols;embrun;05200;44.568094;6.494468
+220;hôpital;05046pc00224;8 rue pierre et marie curie;embrun;05200;44.560897;6.493350
+221;route de prébois bas;05098pc00225;2 chemin du riou sec;les orres;05200;44.490663;6.553707
+222;lep;05046pc00226;11 chemin sous le roc;embrun;05200;44.556750;6.486398
+223;hôtel restau château de la robeyère;05046pc00227;24 avenue justin gras;embrun;05200;44.559713;6.486228
+224;maison de retraite les chanterelles;05046pc00228;6 rue du maréchal de lattre de tassigny;embrun;05200;44.564429;6.498799
+225;maison de retraite lou village;05046pc00229;22 chemin des croix;embrun;05200;44.564787;6.501721
+226;super u;05046pc00230;17 avenue des métiers;embrun;05200;44.550527;6.488926
+227;entraigues i / teuteu;05046pc00231;14 rue des bouilleurs de crue;embrun;05200;44.552124;6.491989
+228;entraigues ii / régie de l'eau;05046pc00232;2 rue des ardoisiers;embrun;05200;44.551709;6.489024
+229;vague du rabioux;05036pc00233;1500 route de la vague;chateauroux-les-alpes;05380;44.618041;6.544578
+230;centre ucpa embrun;05046pc00234;4 impasse des merisiers;embrun;05200;44.551516;6.485039
+231;cv ucpa les orres;05098pc00235;2 traverse sainte-marguerite;les orres;05200;44.497833;6.554532
+232;centre de vacances epaf;05046pc00236;319 chemin de chadenas;embrun;05200;44.547349;6.461345
+233;la garenne commerces;05045pc00237;1170 route de la plage;crots;05200;44.538987;6.455889
+234;centre de vacances lou cabri;05012pc00238;84 impasse des baladins;baratier;05200;44.539070;6.484629
+235;camping les airelles;05012pc00239;602 chemin de la serbie;baratier;05200;44.530846;6.501309
+236;camping le verger;05012pc00240;8 impasse du vieux noyer;baratier;05200;44.538328;6.487338
+237;centre de vacances lpm;05012pc00241;227 chemin des clôsures;baratier;05200;44.540040;6.495226
+238;zone du liou derrière wc;05012pc00242;60 traverse des epis;baratier;05200;44.548083;6.481652
+239;intermarché (colonne om);05012pc00243;60 traverse des epis;baratier;05200;44.547372;6.481156
+240;mac do;05012pc00244;60 traverse des epis;baratier;05200;44.547801;6.482529
+241;bouygues route de st andré / l'air du temps;05046pc00245;13 rue edouard przybylski;embrun;05200;44.566936;6.500174
+242;hôtel le lac;05046pc00246;1 rue des chardons;embrun;05200;44.551371;6.482580
+243;rochelaire;05046pc00247;10 avenue charles de gaulle;embrun;05200;44.567235;6.499102
+244;tourmaline;05046pc00248;18 chemin des croix;embrun;05200;44.564631;6.501177
+245;les vignes iii / route des puys;05046pc00249;10 route des puys;embrun;05200;44.559596;6.478999
+246;la gardette / route des puys;05046pc00250;1 rue du siebels;embrun;05200;44.560458;6.480021
+247;st alban;05036pc00251;;chateauroux-les-alpes;05380;44.635377;6.563243
+248;za des moulins lotissement;05045pc00252;rue de la montagnette;crots;05200;44.530675;6.451246
+249;gendarmerie;05098pc00253;1 chemin des mouflons;les orres;05200;44.493274;6.555625
+250;allée des chamois;05098pc00254;1 allée des fouonts;les orres;05200;44.495239;6.557009
+251;entrée station;05098pc00255;30 route du boussolenc;les orres;05200;44.492495;6.556172
+252;centre station;05098pc00256;4 allée des chamois;les orres;05200;44.494258;6.557244
+253;résidence la gardette;05114pc00257;253 charrière grande de pra goudin;reallon;05160;44.576697;6.363793
+254;résidence la comète;05114pc00258;388 charrière grande de pra goudin;reallon;05160;44.577254;6.362939
+255;plan d'eau;05114pc00259;l’iscle;reallon;05160;44.606157;6.337895
+256;centre station devant local carton;05098pc00260;7 place jean rippert;les orres;05200;44.485609;6.553238
+257;parking de prébois;05098pc00261;5 route de bois méans;les orres;05200;44.488173;6.551733
+258;semlore;05098pc00262;7 route de bois méans;les orres;05200;44.487651;6.551600
+259;route d'accès à bois méans;05098pc00263;30 route de bois méans;les orres;05200;44.483471;6.551918
+260;entrée haute bois méans (drapeaux);05098pc00264;28 route de bois méans;les orres;05200;44.482921;6.552531
+261;au dessus caisse remontée;05098pc00265;32 route de bois méans;les orres;05200;44.483854;6.553024
+262;en face caisse remontée;05098pc00266;32 route de bois méans;les orres;05200;44.483854;6.553024
+263;sous caisse remontée;05098pc00267;27 route de bois méans;les orres;05200;44.484547;6.553299
+264;bas route principale bois méans;05098pc00268;40 route de bois méans;les orres;05200;44.484905;6.552459
+265;parking face spar;05098pc00269;40 route de bois méans;les orres;05200;44.484905;6.552459
+266;parking point sous 8 à 8;05098pc00270;7 place jean rippert;les orres;05200;44.485461;6.553236
+267;fond du parking;05098pc00271;20 place jean rippert;les orres;05200;44.485656;6.554266
+268;parking devant chalet cartons;05098pc00272;15 place jean rippert;les orres;05200;44.485482;6.553967
+269;fond point les monts du bois d'or;05098pc00273;7 place jean rippert;les orres;05200;44.485641;6.553242
+270;neuvière / les girauds / les maures;05046pc00274;84 route de chalvet;embrun;05200;44.584421;6.502554
+271;pep 05;05046pc00277;1 impasse du parpaillon;embrun;05200;44.572383;6.508502
+272;rue serre verger;05164pc00279;6 avenue de la combe d’or;savines-le-lac;05160;44.525909;6.405812
+273;les closures / entrée lpm;05012pc00280;222 chemin des clôsures;baratier;05200;44.539832;6.495278
+274;les terres du château;05012pc00281;388 chemin de lesdier;baratier;05200;44.534651;6.491381
+275;entraigues ii;05012pc00282;1 rue de l’arenier;baratier;05200;44.512166;6.545256
+276;entraigues i /cartons;05046pc00283;2 rue des meuniers;embrun;05200;44.552553;6.490416
+277;l'eglise;05098pc00285;4 rue du commun;les orres;05200;44.514531;6.548515
+278;rooftop;05046pc00284;5 chemin de chadenas;embrun;05200;44.551725;6.473497
+279;capitainerie;05164pc00280;4 promenade du théâtre;savines-le-lac;05160;44.528375;6.403366
+280;paillote du lac;04154pc00064;93 route d’orbanne;pontis;05160;44.501504;6.345666
+281;aire 1 les bertrands;05040pc00340;;chorges;05230;44.538429;6.291666
+282;aire 2 le villard baie st michel;05106pc00066;2 chemin du port;prunieres;05230;44.529841;6.332718
+283;aire 3 parking rn 94;05106pc00067;;prunieres;05230;44.525041;6.350433
+284;aire 4 la baie des pirates;05106pc00068;;prunieres;05230;44.525815;6.354673
+285;aire 5 la bascule 1;05164pc00282;11 route de réallon;savines-le-lac;05160;44.535646;6.381809
+286;aire 6 la bascule 2;05164pc00281;3 impasse coste béraude;savines-le-lac;05160;44.535477;6.384336
+287;aire 7 savines-le-lac;05045pc00253;;crots;05200;44.528752;6.425850
+288;aire 8 pré-buisson;05036pc00252;;chateauroux-les-alpes;05380;44.597068;6.523848
+289;place du grand logis;05040pc00300;29 place du grand logis;chorges;05230;44.547214;6.277047
+290;parking centre jallut;05040pc00301;jallut parking;chorges;05230;44.546232;6.276634
+291;champ de foire;05040pc00302;111 avenue d’embrun;chorges;05230;44.544783;6.279518
+292;ecoles;05040pc00303;2 rue des ecoles;chorges;05230;44.544522;6.276952
+293;rue de la gare - commerces;05040pc00304;allée du 11 mars 1962;chorges;05230;44.545945;6.273763
+294;avenue du piolit;05040pc00305;8 place de chabrières;chorges;05230;44.547267;6.270437
+295;intermarché parking;05040pc00306;130 chemin du pontillas;chorges;05230;44.546374;6.270638
+296;hlm pré valière;05040pc00307;393 route des moulettes;chorges;05230;44.541699;6.279547
+297;hlm pré du château;05040pc00308;223 route de la montagne;chorges;05230;44.549925;6.277710
+298;résidence la pousterle ii;05040pc00309;532 route de la montagne;chorges;05230;44.549925;6.277710
+299;résidence les nays;05040pc00310;20 rue des nays;chorges;05230;44.549387;6.274927
+300;lotissement le pré vert;05040pc00311;3 rue de la coupa;chorges;05230;44.550632;6.272158
+301;sous le martouret;05040pc00312;1169 route de la montagne;chorges;05230;44.556369;6.276381
+302;le martouret;05040pc00313;2022 route de la montagne;chorges;05230;44.559861;6.271423
+303;les seymats;05040pc00314;2986 route des hameaux du lac;chorges;05230;44.543798;6.307406
+304;les bernards;05040pc00315;1592 route des hameaux du lac;chorges;05230;44.537966;6.314323
+305;les chabes - le sépulcre;05040pc00316;314 route des hameaux du lac;chorges;05230;44.537087;6.303296
+306;route de st apollinaire;05040pc00317;2224 route de réallon;chorges;05230;44.549042;6.303048
+307;olliviers / chaussins;05040pc00318;3150 route d’203 bois sagnières;chorges;05230;44.532230;6.263595
+308;le fein;05040pc00319;;chorges;05230;44.516445;6.270032
+309;grande ile nord - bas autovision pl;05040pc00320;16 impasse du dévezet;chorges;05230;44.552002;6.256887
+310;grande ile sud - hapian;05040pc00321;51 rue coste belle;chorges;05230;44.551244;6.257499
+311;baie st michel entrée camping municipal;05040pc00322;1 impasse du pré;chorges;05230;44.528987;6.324281
+312;baie st michel parking plage;05040pc00323;1 lieu dit baie de saint michel;chorges;05230;44.524897;6.326624
+313;chanteloube entrée;05040pc00324;;chorges;05230;44.513763;6.304985
+314;chanteloube parking;05040pc00325;;chorges;05230;44.509087;6.312239
+315;vvf baie st michel;05040pc00326;1 lieu dit baie de saint michel;chorges;05230;44.525916;6.321836
+316;camping serre du lac;05040pc00327;;chorges;05230;44.528810;6.319260
+317;camping clé des champs;05040pc00328;;chorges;05230;44.526361;6.318803
+318;ecrins du lac l'ami soleil;05040pc00329;;chorges;05230;44.503870;6.304013
+319;intermarché pro;05040pc00330;185 route nationale 94;chorges;05230;44.546831;6.269503
+320;vacances bleues;05040pc00331;;chorges;05230;44.527536;6.287408
+321;camping la valière;05040pc00332;447 route des moulettes;chorges;05230;44.538888;6.280458
+322;vc les hyvans - btp vacances;05040pc00333;;chorges;05230;44.497850;6.303802
+323;grande ile nord - haut axe hôtel;05040pc00334;67 rue de la source;chorges;05230;44.553354;6.258294
+324;rue du moulin;05040pc00335;779 chemin du moulin;chorges;05230;44.550976;6.282621
+325;relais total;05040pc00336;1401 route nationale 94;chorges;05230;44.551234;6.255413
+326;camping de campéole / baie de la chapelle;05040pc00337;1 lieu dit baie de saint michel;chorges;05230;44.524270;6.324417
+327;grande ile nord - parking club 30;05040pc00338;150 impasse du dévezet;chorges;05230;44.552718;6.255627
+328;depot;;depot;embrun;05200;44.5862;6.51652
