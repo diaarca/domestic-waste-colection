@@ -1,0 +1,50 @@
+Rapport 1: Antonio Lopez Ropero
+En gros, il explique comment ont été créer les prévisions, avec un état de l'art pour comprendre la production de déchets.
+Il présente beaucoup d'hypothèses qu'on doit choisir de conserver ou non.
+
+
+Rapport 2: Louis Gourincha
+Reverse avec clustering hierarchique pour répartir en 5 groupes selon le volume qui va être produit à chaque fois. Pb car trop d'écart de volume (30% parfois)
+Il ont fait un algo de collecte pour limiter la distance parcourrue par les camions, finalement la solution n'est pas meilleure que l'originale par la commune.
+Un clustering sur les distances des points entre eux et un clustering selon les volumes de déchets.
+
+
+Remarques sur le pb à retenir
+On ne peut pas créer de dépot, on ne peut pas créer de bennes ou les déplacer.
+
+Objectif
+min la distance parcourue par les camions: somme sur i, somme sur j, somme sur p (xijp*djp)
+
+######### VRP1 ~ On fait un cas basique
+Hypothèse: on veut juste que les camions passent par toutes les poubelles osef des volumes
+            on suppose que la matrice est symétrique en vol d'oiseaux (?)
+
+Data
+Matrice avec les distances entre chaque bennes 2 à 2
+Nc le nombre de camions
+Nb le nombre de bennes
+N = Nb + 1 le nombre de points 
+
+Variables
+Xijp = 1 si le camion i va à j et vient du point p (où p, i, j sont des points, donc bennes ou depot)
+
+Contraintes
+Je veux que au moins un camion passe par la benne j: Vj, somme sur i( somme sur p (xijp) )
+
+##########################################################
+Data à ajouter qui complexifie et améliore:
+
+Prédiction (linéaire) de l'évolution journalière des déchets pour chaque benne à ordure sur spring 23
+Les volumes des camions
+Ordre de collecte dans la liste des benne du routage
+Le temps de ramassage 
+Le calendrier fixe (pour que ce soit humainement plus sympa)
+Limiter les cluster quand on a dedans le volume journalier émis qui est de taille le volume de mon camion
+
+Contraintes
+1. Qu'il n'y ait jamais une poubelle qui déborde.
+
+
+Plan
+Louis : essaye de faire un programme metaheuristique pour résoudre IRP
+
