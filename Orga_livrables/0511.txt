@@ -17,8 +17,8 @@ Pour les camions:
     2 have a capacity of 18000 litres
 Pour les poubelles:
 Prédiction de la quantité de déchets émis par jour, par poubelle
-Taux de remplissage par poubelle au moment du ramassage -> il faut qu'on le transforme
-On veut assimiler à une seule poubelle par point
+Taux de remplissage par poubelle au moment du ramassage
+On veut assimiler à une seule poubelle par point -> il faut sommer les V
 There are different sizes: 1000, 3000, 4000 and 5000 litres.
 Most of the bins have this last capacity.
 
