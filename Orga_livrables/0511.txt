@@ -10,8 +10,15 @@ inventory routing tu détermine route, mais pas combien on prend pas en compte c
 
 1. Compréhension du problème pour savoir à quel problème de la littérature on a à faire.
 
-a) Comprendre les données, le nombre de camion etc, …
-6 trucks for the collection of organic waste only, 4 of which have a capacity of 14000 litres and the other 2 have a capacity of 18000 litres for organic waste.
+a) Comprendre les données
+6 trucks for the collection of organic waste only, 
+    4 of which have a capacity of 14000 litres
+    2 have a capacity of 18000 litres
+Taux de remplissage par poubelle à echelle de la semaine -> il faut qu'on le transforme /jr
+Assimilée à une seule poubelle par point 
+There are different sizes: 1000, 3000, 4000 and 5000 litres.
+Most of the bins have this last capacity.
+
 
 b)Type de problème
 On est face à un inventory routing problème
