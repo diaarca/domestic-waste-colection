@@ -1,0 +1,28 @@
+OBJECTIF: Definir et présenter le probleme (obj, hypothèse, probleme de la littérature)
+
+Si on fait ce qu'on veut en tournée, c'est quoi le mieux?
+Si on veut répeter par semaine, de combien on s'écarte? "contrainte fréquentielle" comment on définit la fréquence sachant qu'elles n'ont pas toutes les même besoin.
+Est-ce que on impose la date de visite ou pas?
+Est-ce qu'on va faire du clustering tournée ou du tournée clustering?
+Le prof attend la comparaison des méthodes
+inventory routing tu détermine route, mais pas combien on prend pas en compte combien on vide parce que on prend tout.
+
+
+1. Compréhension du problème pour savoir à quel problème de la littérature on a à faire.
+
+a) Comprendre les données
+Pour les camions:
+6 trucks for the collection of organic waste only, 
+    4 of which have a capacity of 14000 litres
+    2 have a capacity of 18000 litres
+Pour les poubelles:
+Prédiction de la quantité de déchets émis par jour, par poubelle
+Taux de remplissage par poubelle au moment du ramassage
+On veut assimiler à une seule poubelle par point -> il faut sommer les V
+There are different sizes: 1000, 3000, 4000 and 5000 litres.
+Most of the bins have this last capacity.
+
+
+b)Type de problème
+On est face à un inventory routing problème
+Mais en plus simple car on prend la totalité de la poubelle.
