@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from typing import List, Dict, Tuple
 
 
+
 @dataclass
 class ClarkeWrightResult:
     routes: List[List[int]]
@@ -211,26 +212,49 @@ class ClarkeWrightReverseIRP:
 # --------------------- Exemple d'utilisation ---------------------
 
 if __name__ == "__main__":
-    # Petit exemple jouet
+    def set_project_root():
+        """
+        Définit le répertoire courant comme étant le dossier 'DOMESTIC-WASTE-COLECTION'
+        en remontant depuis le script courant (ou le cwd si __file__ n'existe pas).
+        """
+        import os
+        from pathlib import Path
 
-    # 0 = dépôt, 1..4 = clients
-    distance_matrix = [
-        [0, 10, 20, 30, 40],
-        [10, 0, 15, 25, 35],
-        [20, 15, 0, 18, 28],
-        [30, 25, 18, 0, 14],
-        [40, 35, 28, 14, 0],
-    ]
+        PROJECT_ROOT_NAME = "domestic-waste-colection"
+        # Point de départ : fichier courant si possible, sinon cwd (cas notebooks, etc.)
+        if "__file__" in globals():
+            current_path = Path(__file__).resolve()
+        else:
+            current_path = Path.cwd().resolve()
 
-    # quantités à collecter (reverse)
-    returns = {
-        1: 2.0,
-        2: 3.0,
-        3: 1.0,
-        4: 4.0,
-    }
+        # On parcourt le dossier courant et tous ses parents
+        for folder in [current_path] + list(current_path.parents):
+            if folder.name == PROJECT_ROOT_NAME:
+                os.chdir(folder)
+                print(f"Répertoire projet défini sur : {folder}")
+                return folder
 
-    vehicle_capacity = 5.0
+        # Si on n'a rien trouvé
+        raise FileNotFoundError(
+            f"Impossible de trouver le dossier projet '{PROJECT_ROOT_NAME}' "
+            f"en remontant depuis {current_path}"
+        )
+
+    # Appel au démarrage du programme
+    PROJECT_ROOT = set_project_root()
+    import sys
+    PROJECT_ROOT_STR = str(PROJECT_ROOT)
+    if PROJECT_ROOT_STR not in sys.path:
+        sys.path.insert(0, PROJECT_ROOT_STR)
+        
+    from python_tools.Import_data import DataProblem
+    data = DataProblem()
+    # import de la matrice de distance
+    distance_matrix = data.duration_matrix
+    quantity = data.daily_kg
+    returns = {i+1 : quantity[i] for i in range(len(quantity))}
+
+    vehicle_capacity = 1000
 
     solver = ClarkeWrightReverseIRP(
         distance_matrix=distance_matrix,
